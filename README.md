@@ -6,7 +6,7 @@ Analyzed COVID-19 trends and their impact on Malaysia's KLSE stock market index 
 
 ## 📊 Dashboard
 
-![COVID-19 and its Impact on KLSE Index Price](images/covid-malaysia-dashboard.png)
+![COVID-19 and its Impact on KLSE Index Price](covid-dashboard.png)
 
 ## 🎯 Project Overview
 
