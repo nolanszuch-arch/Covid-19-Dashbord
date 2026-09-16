@@ -33,4 +33,4 @@ The dashboard examines:
 
 `SQL` `Tableau` `Data Cleaning` `Data Visualization` `Trend Analysis` `Financial Data Analysis`
 
-![COVID-19 and its Impact on KLSE Index Price](images/covid-malaysia-dashboard.png)
+
